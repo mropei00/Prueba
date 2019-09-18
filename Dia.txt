@@ -1,0 +1,8 @@
+Lunes 
+Martes
+Miércoles
+Jueves 
+Viernes
+Sabado 
+Domingo
+
